@@ -1,5 +1,5 @@
 <div align="center">
-  <img id="word-cloud" width="96" alt="word-cloud" src="./assets/icon/app_icon.png">
+  <img id="word_cloud" width="96" alt="word_cloud" src="./assets/icon/app_icon.png">
   <p>「 WordCloud - 生成你的词云！」</p>
 </div>
 
@@ -36,8 +36,8 @@
 
 # 🧑‍💻 贡献者
 
-<a href="https://github.com/Cierra-Runis/word-cloud/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Cierra-Runis/word-cloud" />
+<a href="https://github.com/Cierra-Runis/word_cloud/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Cierra-Runis/word_cloud" />
 </a>
 
 # 🔦 声明
