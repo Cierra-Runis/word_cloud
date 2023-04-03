@@ -1,5 +1,5 @@
 <div align="center">
-  <img id="word-cloud" width="96" alt="word-cloud" src="icon/icon.ico">
+  <img id="word-cloud" width="96" alt="word-cloud" src="./assets/icon/app_icon.png">
   <p>「 WordCloud - 生成你的词云！」</p>
 </div>
 
