@@ -1,0 +1,38 @@
+name: word_cloud
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 0.0.1+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2 # 图标
+  provider: ^6.0.4 # 状态管理
+  window_manager: ^0.2.8 # 窗口管理
+  json_serializable: ^6.5.3 # json 相关
+  json_annotation: ^4.7.0 # json 相关
+  json_model: ^1.0.0 # json 相关
+  package_info_plus: ^3.0.1 # 程序内部获取包信息
+  shared_preferences: ^2.0.15 # 数据持久化
+  url_launcher: ^6.1.10 # 打开外部链接
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.3.3 # 代码生成用实用工具
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Saira
+      fonts:
+        - asset: assets/fonts/Saira.ttf
+  assets:
+    - assets/fonts/
+    - assets/icon/
